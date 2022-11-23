@@ -1,0 +1,49 @@
+img {
+  margin-left: 25px;
+}
+
+.brand-img {
+  height: 50px;
+  width: 50px;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 600px 600px 600px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #e4f1fe
+}
+
+.body {
+  margin: 100px 450px 10px 450px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #e3f6f5;
+}
+
+.footer {
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.form {
+  margin: 25px 600px 25px 600px;
+  align-items: center;
+}
+
+.buttons {
+  margin: auto;
+  width: 50%;
+  padding: 50px 0px 50px 120px;
+}
+
+.btn {
+  margin: 5px;
+}
+
+.brand {
+  display: grid;
+  grid-template-columns: 100px 200px;
+}
